@@ -21,6 +21,10 @@ Running since epoch: 	259
 
 Twitter: [@PoolLoki](https://twitter.com/PoolLoki)
 
+## Membership
+
+[Bare Metal Cardano Alliance](https://cardanobaremetal.com)
+
 ## Hardware
 
 The pool relays are running on virtual machines in Azure while block producer is on bare metal server.
