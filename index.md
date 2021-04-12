@@ -1,6 +1,7 @@
 # LOKI Cardano Stakepool
 
 Pool registered in Mainnet on 2021-04-11.
+
 Site under construction.
 
 Pool Ticker: LOKI
@@ -13,11 +14,11 @@ Pledge: 1 ADA
 
 Stake: 2.6 ADA
 
-Fixed fee: 	340 ADA per epoch
+Fixed fee: 340 ADA per epoch
 
-Variable fee: 	2.00%
+Variable fee: 2.00%
 
-Running since epoch: 	259
+Running since epoch: 259 (2021-04-11)
 
 Twitter: [@PoolLoki](https://twitter.com/PoolLoki)
 
