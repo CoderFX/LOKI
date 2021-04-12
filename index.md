@@ -8,6 +8,8 @@ Pool Ticker: LOKI
 
 Pool name: Loki Pool
 
+Description: Helping provide decentralization to the Cardano blockchain and having fun along the way
+
 Pool ID: pool17j94qfcxvr0xvuz5xl2c8nnt8pcv4v2d753vfxx3p4l4sukhtq0
 
 Pledge: 1 ADA
