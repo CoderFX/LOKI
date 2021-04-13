@@ -8,7 +8,7 @@ Pool Ticker: LOKI
 
 Pool name: Loki Pool
 
-Description: Helping provide decentralization to the Cardano blockchain and having fun along the way
+Description: Helping provide decentralization to the Cardano blockchain by assisting other Stake Pool Operators with creating their own pools
 
 Pool ID: pool17j94qfcxvr0xvuz5xl2c8nnt8pcv4v2d753vfxx3p4l4sukhtq0
 
@@ -24,9 +24,13 @@ Running since epoch: 259 (2021-04-11)
 
 Twitter: [@PoolLoki](https://twitter.com/PoolLoki)
 
+Telegram: [Loki Pool](t.me/LOKI_Pool)
+
 ## Membership
 
 [Bare Metal Cardano Alliance](https://cardanobaremetal.com)
+
+[Singe Pool Alliance](https://singlepoolalliance.net/) (Waiting to be confirmed)
 
 ## Hardware
 
