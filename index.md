@@ -18,7 +18,7 @@ Stake: 2.6 ADA
 
 Fixed fee: 340 ADA per epoch
 
-Variable fee: 2.00%
+Variable fee: 5.00%
 
 Running since epoch: 259 (2021-04-11)
 
